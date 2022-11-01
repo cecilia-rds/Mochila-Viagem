@@ -1,9 +1,3 @@
-html {
-    background: radial-gradient(farthest-corner at right top,#21A09D, #06182D);
-    height: 100%;
-    font-family: 'Roboto', cursive;
-}
-
 .conteudo {
     padding: 10vh 3em 0;
     display: flex;
